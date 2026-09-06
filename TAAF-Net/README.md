@@ -2,8 +2,6 @@
 
 Code for the experiments reported in **TAAF-Net: A Texture-Aware Attention Fusion Network for Fine-Grained Rose Disease Classification with Multi-Faceted Explainability**.
 
-The repository separates the main parts of the method into Python modules. A demonstration notebook can be added to `demo_notebook/`.
-
 ## Repository structure
 
 ```text
@@ -193,10 +191,6 @@ TAAF-Net classified 1,219 of 1,224 source test images correctly. The Wilson 95% 
 For TAAF-Net, the four-class zero-shot external evaluation used 427 held-out RoseLeafVision test images and obtained 91.80% accuracy. The Wilson 95% confidence interval was 88.81% to 94.05%.
 
 The external script recomputes all metrics from per-image model probabilities.
-
-## Demo notebook
-
-`demo_notebook/` is intentionally left empty except for the file required to keep the directory in Git. A demonstration notebook can be added there without changing the package modules.
 
 ## Repository check
 
