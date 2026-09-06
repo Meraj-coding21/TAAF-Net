@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite the TAAF-Net paper."
-title: "TAAF-Net"
+title: "TAAF-Net: A Texture-Aware Attention Fusion Network for Fine-Grained Rose Disease Classification with Multi-Faceted Explainability"
 type: software
 version: 1.0.0
 date-released: 2026-09-06
