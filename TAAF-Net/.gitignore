@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+models/
+results/
+figures/
+cache/
+cross_validation/
+*.keras
+*.h5
+*.npz
+.DS_Store

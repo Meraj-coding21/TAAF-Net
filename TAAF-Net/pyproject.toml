@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "taafnet"
+version = "1.0.0"
+description = "Code for TAAF-Net rose disease classification experiments"
+requires-python = ">=3.10,<3.12"
+
+[tool.setuptools.packages.find]
+include = ["taafnet*"]
